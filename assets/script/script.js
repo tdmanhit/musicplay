@@ -46,41 +46,41 @@ const app = {
         {
             name: 'Sài Gòn Hôm Nay Mưa',
             singer: 'Hoàng Duyên',
-            path: '../assets/songs/saigonnaymua.mp3',
-            image: '../assets/img/song-thumb/song1.jpg'
+            path: './assets/songs/saigonnaymua.mp3',
+            image: './assets/img/song-thumb/song1.jpg'
         },
         {
             name: 'Khi Em Lớn',
             singer: 'Hoàng Dũng',
-            path: '../assets/songs/khiemlon.mp3',
-            image: '../assets/img/song-thumb/song2.jpg'
+            path: './assets/songs/khiemlon.mp3',
+            image: './assets/img/song-thumb/song2.jpg'
         },
 
         {
             name: 'Thương',
             singer: 'Karik',
-            path: '../assets/songs/Thuongkarik.mp3',
-            image: '../assets/img/song-thumb/song3.jpg'
+            path: './assets/songs/Thuongkarik.mp3',
+            image: './assets/img/song-thumb/song3.jpg'
         },
 
         {
             name: 'Từng là tất cả',
             singer: 'Karik',
-            path: '../assets/songs/Tunglatatca.mp3',
-            image: '../assets/img/song-thumb/song4.jpg'
+            path: './assets/songs/Tunglatatca.mp3',
+            image: './assets/img/song-thumb/song4.jpg'
         },
 
         {
             name: 'Đô Trưởng',
             singer: 'Đạt G',
-            path: '../assets/songs/dotruong.mp3',
-            image: '../assets/img/song-thumb/song5.jpg'
+            path: './assets/songs/dotruong.mp3',
+            image: './assets/img/song-thumb/song5.jpg'
         },
         {
             name: 'Sài Gòn Đau Lòng Qúa',
             singer: 'Hứa Kim Tuyền , Hoàng Duyên',
-            path: '../assets/songs/saigondaulongqua.mp3',
-            image: '../assets/img/song-thumb/song6.jpg'
+            path: './assets/songs/saigondaulongqua.mp3',
+            image: './assets/img/song-thumb/song6.jpg'
         },
 
     ],
