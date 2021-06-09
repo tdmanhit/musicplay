@@ -53,34 +53,34 @@ const app = {
             name: 'Khi Em Lớn',
             singer: 'Hoàng Dũng',
             path: './assets/songs/khiemlon.mp3',
-            image: './assets/img/song-thumb/song2.JPG'
+            image: './assets/img/song-thumb/song2.png'
         },
 
         {
             name: 'Thương',
             singer: 'Karik',
             path: './assets/songs/Thuongkarik.mp3',
-            image: './assets/img/song-thumb/song3.JPG'
+            image: './assets/img/song-thumb/song3.png'
         },
 
         {
             name: 'Từng là tất cả',
             singer: 'Karik',
             path: './assets/songs/Tunglatatca.mp3',
-            image: './assets/img/song-thumb/song4.JPG'
+            image: './assets/img/song-thumb/song4.png'
         },
 
         {
             name: 'Đô Trưởng',
             singer: 'Đạt G',
             path: './assets/songs/dotruong.mp3',
-            image: './assets/img/song-thumb/song5.JPG'
+            image: './assets/img/song-thumb/song5.png'
         },
         {
             name: 'Sài Gòn Đau Lòng Qúa',
             singer: 'Hứa Kim Tuyền , Hoàng Duyên',
             path: './assets/songs/saigondaulongqua.mp3',
-            image: './assets/img/song-thumb/song6.JPG'
+            image: './assets/img/song-thumb/song6.png'
         },
 
     ],
