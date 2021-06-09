@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tempoyo Music Player </title>
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/assets/fonts/fontawesome-free-5.15.2-web/css/all.min.css">
+    <!-- reset css -->
+    <link rel="stylesheet" href="/assets/css/reset.css">
+
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+</head>
+<body>
+    <div class="app">  
+        <div class="app-container app-main active">
+            <div class="app-container__inner"> 
+
+                <div class="header">
+                    <div class="header__song-list-btn">
+                        <img src="/assets/img/music-playlist-icon-24.jpg" alt="">
+                    </div>
+                    
+                    <div class="header__title">Playing now</div>
+                    
+                    
+                </div>
+                <div class="song-thumb-container">
+   
+                    <div class="song-thumb" style="background-image: url('/assets/img/song-thumb/song1.jfif')">                    
+                    </div>
+                </div>
+                <div class="song-info">
+                    <!-- <div class="song-info__name">Yeu em dai kho</div>
+                    <div class="song-info__artist">
+                        Vinh Khuat
+                    </div> -->
+                </div>
+                <div class="song-option-btn">
+                    <div class="repeat-btn ">
+                        <i class="fas fa-redo"></i>
+                    </div>
+                    <div class="shuffle-btn ">
+                        <i class="fas fa-random"></i>
+                    </div>
+                </div>
+                <div class="song-time">
+                    <div class="song-current-time">
+                        00:00
+                    </div>
+                    <div class="song-total-time">
+                        03:54
+                    </div>
+                </div>
+                <input type="range" name="song-range" id="song-range" min="0" max="100" value="0" step="0.01">
+    
+                <div class="song-control-btn ">
+                    <div class="prev-btn">
+                        <i class="fas fa-backward"></i>
+                    </div>
+                    <div class="song-play-btn">
+                        <i class="fas fa-play song-play-btn--playing"></i>
+                        <i class="fas fa-pause song-play-btn--pause"></i>
+                    </div>
+                    <div class="next-btn">
+                        <i class="fas fa-forward"></i>
+                    </div>
+                </div>  
+    
+                <audio id="audio" src=""></audio>
+            </div>  
+
+        </div>
+
+        <div class="app-container songs-list">  
+            <div class="app-container__inner">
+                <div class="songs-list__header-container">
+                    <div class="songs-list__header">
+                        <div class="songs-list__back-btn">
+                            <i class="fas fa-chevron-circle-left"></i>
+                        </div>
+                        <div class="songs-list-title">Queue</div>
+                    </div>
+                </div>
+                
+               <div class="song-item__wrapper">
+                
+                
+                <!-- <div class="song-item">
+                    <div class="song-item__thumb-container">
+                        <div class="song-item__thumb " style="background-image: url('/assets/img/song-thumb/song1.jfif')" >                          
+                        </div>
+                    </div>
+                    
+                    <div class="song-item__info">
+                        <div class="song-item__name">Yeu em dai kho</div>
+                        <div class="song-item__artist">Vinh Khuat</div>
+                    </div>
+                    <div class="song-item__option-btn">
+                        <i class="fas fa-ellipsis-v"></i>
+                    </div>
+                </div> -->
+               
+               
+               </div>
+                
+            </div>
+        </div>
+        
+       
+    </div>
+
+
+    <script src="/assets/script/script.js"></script>
+</body>
+</html>
