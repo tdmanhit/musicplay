@@ -47,7 +47,7 @@ const app = {
             name: 'Sài Gòn Hôm Nay Mưa',
             singer: 'Hoàng Duyên',
             path: './assets/songs/saigonnaymua.mp3',
-            image: './assets/img/song-thumb/song1.jpg'
+            image: './assets/img/song-thumb/saigon.jpg'
         },
         {
             name: 'Khi Em Lớn',
