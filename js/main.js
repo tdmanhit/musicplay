@@ -30,61 +30,61 @@ const app = {
   songs: [
     {
       name: "Sài Gòn Nay Mưa",
-      singer: "Raftaar x Harjas",
+      singer: "Hoàng Duyên, JSOL",
       path: "./music/saigonnaymua.mp3",
-      image: "./img/img1.png"
+      image: "./img/img3.png"
     },
     {
       name: "Sài Gòn Đau Lòng Quá",
-      singer: "Raftaar x Harjas",
+      singer: "Hoàng Duyên, Hứa Kim Tuyền",
       path: "./music/saigondaulongqua.mp3",
       image: "./img/img2.png"
     },
     {
       name: "Khi Em Lớn",
-      singer: "Raftaar x Harjas",
+      singer: "Orange, Hoàng Dũng",
       path: "./music/khiemlon.mp3",
-      image: "./img/img3.png"
+      image: "./img/img1.png"
     },
     {
       name: " Thương",
-      singer: "Raftaar x Harjas",
+      singer: "Karik",
       path: "./music/ThuongKarik.mp3",
       image: "./img/img4.png"
     },
     {
       name: "Từng Là Tất Cả",
-      singer: "Raftaar x kr$na",
+      singer: "Karik",
       path:"./music/Tunglatatca.mp3",
       image: "./img/img5.png"
     },
     {
       name: "Ai Mang Cô Đơn Đi",
-      singer: "Raftaar x Fortnite",
+      singer: "K-ICM, APJ",
       path: "./music/aimangcodondi.mp3",
       image: "./img/img6.png"
     },
     {
       name: "Buồn Của Anh",
-      singer: "Raftaar x Salim Merchant x Karma",
+      singer: "Đạt G, K-ICM",
       path: "./music/buoncuaanh.mp3",
       image: "./img/img7.png"
     },
     {
       name: "Câu Hẹn Câu Thề",
-      singer: "Raftaar x Brobha V",
+      singer: "",
       path:"./music/CauHenCauThe.mp3",
         image: "./img/img8.png"
     },
     {
       name: "Đô Trưởng",
-      singer: "Raftaar x Nawazuddin Siddiqui",
+      singer: "Đạt G",
       path: "./music/dotruong.mp3",
       image: "./img/img9.png"
     },
     {
       name: "Hôm Nay Em Cưới Rồi",
-      singer: "Raftaar",
+      singer: "Khải Đăng",
       path: "./music/homnayemcuoiroi.mp3",
       image: "./img/img10.png"
     },
